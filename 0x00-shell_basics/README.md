@@ -1,1 +1,1 @@
-0-current_working_directory
+Display current directory contents in a long format
